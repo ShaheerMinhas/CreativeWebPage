@@ -8,7 +8,7 @@ npm run dev
 Node 21
 npm
 
-Built with React and Three JS
-Showcases 3D objects made using blender
-Check out our buttons of various styles
-and dont forget to check the interactive Earth Globe in the bottom
+# Built with React and Three JS
+# Showcases 3D objects made using blender
+# Check out our buttons of various styles
+# and dont forget to check the interactive Earth Globe in the bottom
